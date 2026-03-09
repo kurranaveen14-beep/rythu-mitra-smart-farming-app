@@ -18,3 +18,9 @@ Rythu Mitra is an AI-powered smart farming mobile application designed to help f
 
 ## Project Status
 The application is available as an APK and is continuously being improved with additional AI features.
+
+## 📱 Download APK
+
+You can download and test the application here:
+
+[Download Rythu Mitra APK] (https://drive.google.com/file/d/15wTbDYzEADncsRuLCOftlMX9FRzP_cY3/view?usp=sharing)
